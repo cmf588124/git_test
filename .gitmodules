@@ -1,0 +1,3 @@
+[submodule "elibs/3d_utils"]
+	path = elibs/3d_utils
+	url = git@github.com:cmf588124/3D_Utils.git
